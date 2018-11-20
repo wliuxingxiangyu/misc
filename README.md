@@ -1,4 +1,2 @@
-misc
-====
 
-Misc code repository for Adam
+in searchPerformance, compare search 
